@@ -16,7 +16,7 @@
 - Python 3.7+
 - pip 包管理工具
 
-## 安装依赖
+## 使用方法
 
 ```bash
 pip install -r requirements.txt
