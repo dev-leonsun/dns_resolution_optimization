@@ -1,6 +1,6 @@
 # DNS Resolution Optimization Tool
 
-这是一个基于 Python 的 DNS 解析优化工具，可以帮助您测试和分析不同 IP 地址在中国各地区节点的网络延迟情况。该工具使用多个运营商（电信、联通、移动）的测试节点，提供全面的网络质量评估。 通过github.com/wojiaoyishang/itdog-batch-ping 的爬虫进行操作
+基于 Python 的网站 DNS 层面解析优化工具，可以帮助您测试和分析不同 IP 地址在中国各地区节点的网络延迟情况。使用多个运营商电信、联通、移动的测试节点，提供全面的网络质量评估（通过github.com/wojiaoyishang/itdog-batch-ping） 的爬虫进行操作
 
 ## 功能特点
 
